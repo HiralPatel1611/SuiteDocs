@@ -7,6 +7,8 @@ title: "Extension Framework"
 
 == Introduction
 
+Custom Extensionsv
+
 The extension framework provides a means to modify various application
 data inside SuiteCRM. For example it provides a way to add or modify
 vardefs, scheduled tasks, language strings and more. 
